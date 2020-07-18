@@ -1,0 +1,13 @@
+# Project information
+site_name: Documentation
+site_url: https://github.com/DanAyres/DanAyres.github.io
+site_author: Dan Ayres
+
+
+# Repository
+repo_name: DanAyres/DanAyres.github.io
+repo_url: https://github.com/DanAyres/DanAyres.github.io
+edit_uri: ""
+
+theme:
+  name: material
